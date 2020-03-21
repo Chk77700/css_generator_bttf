@@ -1,0 +1,12 @@
+#firstimg 
+{
+	 width : 325px;
+	 height :325px;
+ }
+
+#secondimg 
+{
+	 width : 249px;
+	 height :202px;
+	background: url(test.png) -325px 0
+}
